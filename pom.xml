@@ -12,6 +12,10 @@
       <id>Tremolo Security</id>
       <url>https://nexus.tremolo.io/repository/releases/</url>
     </repository>
+     <repository>
+            <id>Tremolo Security Dependencies</id>
+            <url>https://nexus.tremolo.io/repository/dependencies/</url>
+          </repository>
   </repositories>
   <dependencies>
     <dependency>
